@@ -205,12 +205,18 @@ Everything is presented inside a clean Streamlit app where users can select a so
 
 <h2 style="font-size:32px; font-weight:800;">👨‍💻 Author</h2>
 
-<strong style="font-size:24px;">Rahul Sangolli</strong><br>
+<strong style="font-size:24px;">Rahul Sangolli</strong><br/>
 <em style="font-size:16px;">Data Science & Machine Learning Practitioner</em>
 
 <p style="font-size:16px;">
-<a><b>🌐 LinkedIn (Coming Soon)</b></a> &nbsp;|&nbsp;
-<a href="mailto:your-email"><b>✉️ Email</b></a>
+  <a href="https://www.linkedin.com/in/rahul-sangolli-7420193a1/" target="_blank">
+    <b>🌐 LinkedIn</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="mailto:rahulsangolli05@gmail.com">
+    <b>✉️ Email</b>
+  </a>
 </p>
 
 </div>
+
